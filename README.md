@@ -1,4 +1,4 @@
-## scanner filtred
+## Scanner Filtred
 
 Scanner filtrado em threads por segundos!
 
